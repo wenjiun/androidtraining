@@ -1,0 +1,12 @@
+[{"name":"Nougat", "icon":"images/nougat.jpg", "description":"API 24, 25"},
+{"name":"Marshmallow", "icon":"images/marshmallow.png", "description":"API 23"},
+{"name":"Lollipop", "icon":"images/lollipop.png", "description":"API 21, 22"},
+{"name":"KitKat", "icon":"images/kitkat.png", "description":"API 19"},
+{"name":"Jelly Bean", "icon":"images/jellybean.png", "description":"API 16, 17, 18"},
+{"name":"Ice Cream Sandwich", "icon":"images/ics.jpg", "description":"API 14, 15"},
+{"name":"Honeycomb", "icon":"images/honeycomb.jpg", "description":"API 11, 12, 13"},
+{"name":"Gingerbread", "icon":"images/gingerbread.jpg", "description":"API 9, 10"},
+{"name":"Froyo", "icon":"images/froyo.png", "description":"API 8"},
+{"name":"Eclair", "icon":"images/eclair.jpg", "description":"API 5, 6, 7"},
+{"name":"Donut", "icon":"images/donut.jpg", "description":"API 4"},
+{"name":"Cupcake", "icon":"images/cupcake.jpg", "description":"API 3"}]
