@@ -1,0 +1,12 @@
+[{"name":"Ayam Kremes", "icon":"images/ayamkremes.jpg", "description":"Traditional Crispy Fried Chicken"},
+{"name":"Cap Cay", "icon":"images/capcay.jpg", "description":"Stir Fried Mixed Vegetables"},
+{"name":"Es Campur", "icon":"images/escampur.jpg", "description":"Mixed Fruit Ice"},
+{"name":"Gado Gado", "icon":"images/gadogado.jpg", "description":"Traditional Salad with Peanut Dressing"},
+{"name":"Mie Tek Tek", "icon":"images/mietektek.jpg", "description":"Stir Fried Noodle"},
+{"name":"Nasi Goreng", "icon":"images/nasigoreng.jpg", "description":"Traditional Fried Rice"},
+{"name":"Pisang Goreng", "icon":"images/pisanggoreng.jpg", "description":"Traditional Banana Fritter"},
+{"name":"Rawon", "icon":"images/rawon.jpg", "description":"Beef in Black Stewed Soup"},
+{"name":"Sate Kambing", "icon":"images/satekambing.jpg", "description":"Lamb Satay"},
+{"name":"Sop Buntut", "icon":"images/sopbuntut.jpg", "description":"Beef Oxtail SOup"},
+{"name":"Soto Betawi", "icon":"images/sotobetawi.jpg", "description":"Beef in Coconut Soup"}]
+
