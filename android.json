@@ -1,4 +1,5 @@
-[{"name":"Oreo", "icon":"images/oreo.jpg","description":"API 26, 27"},
+[{"name":"Pie", "icon":"images/pie.png","description":"API 28"},
+{"name":"Oreo", "icon":"images/oreo.jpg","description":"API 26, 27"},
 {"name":"Nougat", "icon":"images/nougat.jpg", "description":"API 24, 25"},
 {"name":"Marshmallow", "icon":"images/marshmallow.png", "description":"API 23"},
 {"name":"Lollipop", "icon":"images/lollipop.png", "description":"API 21, 22"},
